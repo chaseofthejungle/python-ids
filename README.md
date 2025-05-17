@@ -4,7 +4,8 @@
   
 <hr />  
 
-## Supplemental Resouces
+## Supplemental Resources
   
-* [Official Python Website](https://www.python.org)  
-* [Python Networking Scripts Repository](https://github.com/chaseofthejungle/python-networking-scripts)
+* *[Official Python Website](https://www.python.org)*  
+* *[Python Networking Scripts Repository](https://github.com/chaseofthejungle/python-networking-scripts)*  
+* *[What is an Intrusion Detection System? (IBM Article)](https://www.ibm.com/think/topics/intrusion-detection-system)*
